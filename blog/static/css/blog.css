@@ -1,3 +1,16 @@
+/* https://newtodesing.com/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+
+
+/Load google font/
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+
+
+
+/* Reset Styles */
 
 
 html, body, div, span, applet, object, iframe,
@@ -438,5 +451,7 @@ li .description {
 		margin-top: 2050px;
 	}
 	}
+
+	/* End of all :P*/
 
 
